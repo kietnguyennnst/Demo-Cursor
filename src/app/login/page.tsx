@@ -152,6 +152,7 @@ export default function LoginPage() {
           <span style={{ fontFamily: 'Poppins, sans-serif', fontSize: 16, color: '#98a2b3' }}>
             Don't have an account?
           </span>
+          {/* Sign up button to create new account */}
           <a href="#" style={{ fontFamily: 'Poppins, sans-serif', fontSize: 16, color: '#1570ef', textDecoration: 'none', cursor: 'pointer', fontWeight: 500 }}>
             Sign up
           </a>
