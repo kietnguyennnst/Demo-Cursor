@@ -133,7 +133,7 @@ export default function LoginPage() {
             style={{
               width: '100%',
               padding: 16,
-              background: '#ff0000',
+              background: '#1570ef',
               color: '#fcfcfd',
               fontFamily: 'Poppins, sans-serif',
               fontSize: 16,
