@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 
 export default function LoginPage() {
+  // State for managing password visibility
   const [showPassword, setShowPassword] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');

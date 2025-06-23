@@ -1,0 +1,6 @@
+---
+description: When push code to github
+globs: 
+alwaysApply: false
+---
+Khi push code, message phải theo cú pháp: [ID của branch]:[Miêu tả thay đổi]. Ví dụ: Branch: feature/DEMO-5-create-login-page => message: DEMO-5: Chỉnh sửa nội dụng và màu của button Login
